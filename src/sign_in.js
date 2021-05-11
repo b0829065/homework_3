@@ -73,7 +73,7 @@ export default function SignInSide() {
 
           <Typography component="h1" variant="h5">
           <p style={styleArgument}>
-          長庚大學 CGG</p>
+          長庚大學 CGU</p>
           <hr></hr>
           學術店堂登入介面
           </Typography>
